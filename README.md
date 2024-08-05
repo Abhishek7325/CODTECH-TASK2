@@ -43,4 +43,4 @@ Load the customer data from various sources (e.g., CSV files, databases). Ensure
     Normalization: Scale features to a fixed range (e.g., 0 to 1) if required for specific models.
 
 ## Result Interpretation:
-In case 1, the similarity score between the resume1 file and the job description file is approximately 56.68%. This means that the resume matches the job description by 56.68%, indicating a moderate level of relevance.
+Once preprocessing is complete, evaluate the impact of these steps on the model's performance. For example, assess how feature engineering and encoding methods affect the accuracy of churn predictions. Document any improvements or changes observed in model performance metrics.
